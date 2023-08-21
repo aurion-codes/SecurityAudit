@@ -1,6 +1,8 @@
 # SecurityAudit 
 
 <h2>Conducted A Controls Assesment for Internal Audit of Toy Company</h2>
+
+<p>Welcome to the Cybersecurity Control Assessment Project! In this project, I conduct a comprehensive control assessment on a hypothetical company's information systems. The primary goal is to evaluate the effectiveness of the security controls in place and identify potential vulnerabilities and weaknesses.</p>
  
 <p>Assets managed by the IT Department include:</p>
 On-premises equipment for in-office business needs  
