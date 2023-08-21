@@ -24,7 +24,7 @@ Controls Assesment
 
 
 <b>Disaster recovery plans</b>: Needs to be implemented; High priority 
-Corrective; business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data); data and restoration
+Corrective; business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components
 
 <b>Password policies</b>: Need to be implemented; High priority 
 Preventative; establish password strength rules to improve security/reduce likelihood of account compromise through brute force or dictionary attack techniques
@@ -39,7 +39,6 @@ Preventative; reduce attack surface and limit overall impact from disgruntled/fo
 Preventative; ensure no one has so much access that they can abuse the system for personal gain
 
 
-
 <h2><b>Technical Controls</b></h2>
 
 <b>Firewall</b>:Does not Need to be Implemented
@@ -52,7 +51,7 @@ Detective; allows IT team to identify possible intrusions (e.g., anomalous traff
 <b>Encryption</b>: :Needs to be implemented: High/Med priority
 Deterrent; makes confidential information/data more secure (e.g., website payment transactions)
 
-<b>Backups</b>: :Needs to be implemented: High priority
+<b>Backups</b>:Needs to be implemented: High priority
 Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan
 
 <b>Password management system</b>::Needs to be implemented: High/Med priority
