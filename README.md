@@ -1,6 +1,6 @@
-# SecurityAudit
+# SecurityAudit 
 
-<h2>Conducted A security Audit on A Toy Company</h2>
+<h2>Conducted A Controls Assesment for Internal Audit of Toy Company</h2>
  
 <p>Assets managed by the IT Department include:</p>
 On-premises equipment for in-office business needs  
