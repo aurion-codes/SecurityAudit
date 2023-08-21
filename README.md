@@ -2,7 +2,7 @@
 
 <h2>Conducted A security Audit on A Toy Company</h2>
  
-Assets managed by the IT Department include: 
+<p>Assets managed by the IT Department include:</p>
 On-premises equipment for in-office business needs  
 Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
 Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
@@ -40,89 +40,48 @@ Preventative; ensure no one has so much access that they can abuse the system fo
 
 
 
-<h2><b></b>Technical Controls</b></h2>
+<h2><b>Technical Controls</b></h2>
 
-Firewall:Does not Need to be Implemented
+<b>Firewall</b>:Does not Need to be Implemented
 Preventative; firewalls are already in place to filter unwanted/malicious traffic from entering internal network
-NA
 
-Intrusion Detection System (IDS)
+
+<b>Intrusion Detection System (IDS)</b>:Needs to be implemented: High priority
 Detective; allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly
-X
-High
-Encryption
 
-
+<b>Encryption</b>: :Needs to be implemented: High/Med priority
 Deterrent; makes confidential information/data more secure (e.g., website payment transactions)
-X
-High/
-Medium
-Backups
+
+<b>Backups</b>: :Needs to be implemented: High priority
 Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan
-X
-High
-Password management system
+
+<b>Password management system</b>::Needs to be implemented: High/Med priority
 Corrective; password recovery, reset, lock out notifications
-X
-High/
-Medium
-Antivirus (AV) software
+
+<b>Antivirus (AV) software</b>: :Needs to be implemented: High priority
 Corrective; detect and quarantine known threats
-X
-High
-Manual monitoring, maintenance, and intervention
+
+<b>Manual monitoring, maintenance, and intervention</b>::Needs to be implemented: High priority
 Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities
-X
-High
 
 
+<h2><b>Physical Controls</b></h2>
 
 
-
-
-
-Physical Controls
-Control Name
-Control type and explanation
-
-
-Needs to be implemented
-(X)
-Priority
-
-
-Time-controlled safe
+<b>Time-controlled safe</b>: Needs to be implemented: Med/low priority
 Deterrent; reduce attack surface/impact of physical threats
-X
-Medium/
-Low
-Adequate lighting
+
+<b>Adequate lighting</b>: :Needs to be implemented: Med/low priority
 Deterrent; limit “hiding” places to deter threats
-X
-Medium/
-Low
-Closed-circuit television (CCTV) surveillance
+
+<b>Closed-circuit television (CCTV) surveillance</b>: Needs to be implemented: High/Med priority
 Preventative/detective; can reduce risk of certain events; can be used after event for investigation
-X
-High/
-Medium
-Locking cabinets (for network gear) 
-Preventative; increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear
-X
-Medium
-Signage indicating alarm service provider
-Deterrent; makes the likelihood of a successful attack seem low
-X
-Low
-Locks
+
+<b>Locks</b>: :Needs to be implemented: High priority
 Preventative; physical and digital assets are more secure
-X
-High
-Fire detection and prevention (fire alarm, sprinkler system, etc.)
+
+<b>Fire detection and prevention (fire alarm, sprinkler system, etc.)</b>:Needs to be implemented: Med/Low priority
 Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc.
-X
-Medium/
-Low
 
 
 
